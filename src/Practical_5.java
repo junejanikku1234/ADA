@@ -1,15 +1,6 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-class Item {
-    int value, weight;
-
-    public Item(int value, int weight) {
-        this.value = value;
-        this.weight = weight;
-    }
-}
-
 public class Practical_5 {
 
     // Function to get the maximum total value in the knapsack
